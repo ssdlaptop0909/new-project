@@ -31,9 +31,9 @@ def update_soul_txt(public_url):
     print(f"New ngrok link saved in shilu.txt")
 
 def update_vps_soul_txt(public_url):
-    vps_ip = "147.93.30.18"
-    vps_user = "root"
-    vps_password = "SoulCracks@90011"
+    vps_ip = "100.28.57.172"
+    vps_user = "siddhu143"
+    vps_password = "king1122@S"
 
     try:
         ssh = paramiko.SSHClient()
